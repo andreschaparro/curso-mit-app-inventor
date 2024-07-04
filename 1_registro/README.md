@@ -105,3 +105,17 @@ Lo hecho esta basado en el ejemplo:
 4. Escanear el codigo QR.
 
 ![Codigo QR](codigo_qr.png)
+
+## Backup del proyecto de MIT App Inventor
+
+1. Clic en `Projects`.
+2. Clic en `Export selected project (.aia) to my computer`.
+
+![Backup](backup.png)
+
+## Restaurar el proyecto de MIT App Inventor
+
+1. Clic en `Projects`.
+2. Clic en `Import project (.aia) from my computer ...`.
+3. Clic en `Examinar...`.
+4. Seleccionar nuestro archivo con extension `.aia`.
